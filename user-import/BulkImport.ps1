@@ -7,14 +7,14 @@ $users = Import-Csv $filepath
 foreach ($User in $users) {
     # Define the parameters using a hashtable
     $UserParams = @{
-        UserPrincipalName     = "$($User.firstname)-$($User.lastname)"
-        Name                  = "$($User.firstname)-$($User.lastname)"
+        UserPrincipalName     = "$($User.firstname.ToLower())-$($User.lastname.ToLower())"
+        Name                  = "$($User.firstname.ToLower())-$($User.lastname.ToLower())" # = user name (= login)
         GivenName             = $User.firstname
         Surname               = $User.lastname
         Initial               = $User.initials
         Enabled               = $True
         DisplayName           = "$($User.firstname) $($User.lastname)"
-        Path                  = $User.ou #This field refers to the OU the user account is to be created in
+        Path                  = $User.ou # This field refers to the OU the user account is to be created in
         City                  = $User.city
         PostalCode            = $User.zipcode
         Country               = $User.country
