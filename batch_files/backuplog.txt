@@ -1,0 +1,44 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sunday, March 17, 2024 7:49:44 AM
+   Source : C:\Users\Administrator\Documents\Codes\batch_files\
+     Dest : C:\backups\
+
+    Files : *.*
+	    
+  Options : *.* /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  14	C:\Users\Administrator\Documents\Codes\batch_files\
+	    New File  		     328	backup.bat100%  
+	    New File  		       0	backuplog.txt100%  
+	    New File  		     145	basic_setup.bat100%  
+	    New File  		     156	calculator.bat100%  
+	    New File  		     232	calculator_2.bat100%  
+	    New File  		      77	goto.bat100%  
+	    New File  		     133	hello_world.bat100%  
+	    New File  		     354	hotkey_run.bat100%  
+	    New File  		      27	password.txt100%  
+	    New File  		       7	secret.txt100%  
+	    New File  		      29	secret_2.txt100%  
+	    New File  		      22	secret_3.txt100%  
+	    New File  		     121	switch.bat100%  
+	    New File  		    1000	write_read_file.bat100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :        14        14         0         0         0         0
+   Bytes :     2.5 k     2.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             164,437 Bytes/sec.
+   Speed :               9.409 MegaBytes/min.
+   Ended : Sunday, March 17, 2024 7:49:44 AM
+

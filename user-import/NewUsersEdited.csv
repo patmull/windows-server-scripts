@@ -1,0 +1,11 @@
+﻿FirstName,Initials,Lastname,Username,Email,StreetAddress,City,ZipCode,State,Country,Department,Password,Telephone,JobTitle,Company,OU
+Max,MF,Fraser,Max.Fraser,Max.Fraser@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1234,44123456780,Engineer,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
+Piers,PB,Bower,Piers.Bower,Piers.Bower@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1235,44123456781,Manager,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
+Kylie,KD,Davidson,Kylie.Davidson,Kylie.Davidson@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1236,44123456782,Engineer,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
+Richard,RG,Grant,Richard.Grant,Richard.Grant@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1237,44123456783,Teamleader,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
+Boris,BC,Campbell,Boris.Campbell,Boris.Campbell@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1238,44123456784,Engineer,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
+Nicholas,NM,Murray,Nicholas.Murray,Nicholas.Murray@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1239,44123456785,Manager,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
+Leonard,LC,Clark,Leonard.Clark,Leonard.Clark@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1240,44123456786,Engineer,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
+Ruth,RD,Dickens,Ruth.Dickens,Ruth.Dickens@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1241,44123456787,Engineer,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
+Jonathan,JF,Fisher,Jonathan.Fisher,Johnathan.Fisher@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1242,44123456788,Engineer,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
+Grace,GR,Rees,Grace.Rees,Grace.Rees@exoip.com,21 Baker St,London,NW1 6XE,,GB,IT,Braf1243,44123456789,Engineer,EXOIP,"OU=Domain Users,OU=osu,DC=opsy,DC=local"
