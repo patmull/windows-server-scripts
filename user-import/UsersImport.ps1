@@ -11,3 +11,15 @@ New-ADUser `
     -Path "OU=Domain Users,OU=osu,DC=opsy,DC=local" `
     -ChangePasswordAtLogon 1 `
     -Enable 1
+
+<#
+# Passwords:
+
+$secureString = ConvertTo-SecureString "TestPassword123" -AsPlainText -Force
+$secureString
+$encryptedString = ConvertFrom-SecureString -SecureString $secureString
+$encryptedString
+
+# Be aware comments are displayed too after running the script!
+# Do not put any sensitive info here!
+#>
